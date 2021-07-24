@@ -6,6 +6,12 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #cccffc;
 }
+footer {
+    background-color: #8c8cb3;
+}
+.links {
+    display: flex; align-items: center;
+}
 @media (min-width: 960px) {
     body {
         width: 50%;
